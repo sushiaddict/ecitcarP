@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Nuntius.iml" filepath="$PROJECT_DIR$/Nuntius.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/Nuntius-app.iml" filepath="$PROJECT_DIR$/app/Nuntius-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecitcarP-Nuntius.iml" filepath="$PROJECT_DIR$/ecitcarP-Nuntius.iml" />
     </modules>
   </component>
 </project>
